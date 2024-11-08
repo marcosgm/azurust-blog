@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "First Azure Function Hello World using Azure Functions"
-date:   2024-11-09 19:19:54 -0500
+date:   2024-11-09 00:19:54 -0500
 categories: azure functions rust
 ---
 This post shows how to run a simple Rust Hello world example on an HTTP Endpoint hosted with an Azure Functions runtime. Here's the [Microsoft documentation about it](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-other?tabs=rust%2Cwindows)
