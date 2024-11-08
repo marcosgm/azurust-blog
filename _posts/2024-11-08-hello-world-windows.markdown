@@ -31,12 +31,12 @@ Now install  Rust-up, a tool that will install all pre-requisites and system set
 ```
 winget install Rustlang.Rustup
 ```
-![Image](../assets/images/wingetrustup.png)
+![Image](/azurust-blog/assets/images/wingetrustup.png)
 
 
 Now open VS Code, go the Extensions menu and install the *rust-analyzer* and the *CodeLLDB* extensions
 
-![Image](../assets/images/vscoderustextensions.png)
+![Image](/azurust-blog/assets/images/vscoderustextensions.png)
 
 Now add the rust binary needed for those extensions using *rustup"
 ```
@@ -77,5 +77,5 @@ fn main() {
 
 In VS Code, insert a breakpoint between the two Println lines, then run with Debug enabled
 
-![Image](../assets/images/debughelloworld.png)
+![Image](/azurust-blog/assets/images/debughelloworld.png)
 
