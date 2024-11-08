@@ -23,7 +23,7 @@ email: no-reply@mail.com
 description: >- # this means to ignore newlines until "baseurl:"
   AzuRust - Learning Rust on Azure
 baseurl: "" # the subpath of your site, e.g. /blog
-url: azurust.github.io # the base hostname & protocol for your site, e.g. http://example.com
+url: marcosgm.github.io/azurust-blog # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: _marcos_gm_
 github_username:  marcosgm
 
