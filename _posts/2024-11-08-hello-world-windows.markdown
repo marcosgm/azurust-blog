@@ -2,7 +2,7 @@
 layout: post
 title:  "Simple Rust Hello World in Windows 11"
 date:   2024-11-08 09:19:54 -0500
-categories: azure rust blog about
+categories: windows rust helloworld vscode cargo
 ---
 Here's what you need to do on a Windows 11 laptop to run Rust
 For complete info on installing Rust on Windows, read [the official doc](https://learn.microsoft.com/en-us/windows/dev-environment/rust/setup) or [this alternative blogpost](https://www.petergirnus.com/blog/how-to-install-rust-on-windows)
@@ -68,7 +68,7 @@ When you run an app under the CodeLLDB extension and debugger for the first time
 
 Now let's add a second message in the screen, and learn how to debug the code
 
-```
+```ruby
 fn main() {
     println!("Hello, world!");
     println!("And hello again!")
