@@ -68,7 +68,7 @@ When you run an app under the CodeLLDB extension and debugger for the first time
 
 Now let's add a second message in the screen, and learn how to debug the code
 
-```ruby
+```rust
 fn main() {
     println!("Hello, world!");
     println!("And hello again!")
