@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Solving Advent of Code using Rust"
-date:   2024-12-01 23:19:54 -0500
+date:   2024-12-01 03:19:54 -0500
 categories: rust advent of code
 ---
 Today I want to challenge me a bit more with Rust so I'll try the [Advent of code 1st challenge](https://adventofcode.com/2024/day/1)
